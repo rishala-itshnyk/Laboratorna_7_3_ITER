@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorna_7_3_ITER", "Laboratorna_7_3_ITER\Laboratorna_7_3_ITER.csproj", "{1D4FE4E7-D194-44F9-AE51-2F5079B0EB33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorna_7_3_ITER.Tests", "Laboratorna_7_3_ITER.Tests\Laboratorna_7_3_ITER.Tests.csproj", "{3540F871-F617-43AD-873B-441A3916E94A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D4FE4E7-D194-44F9-AE51-2F5079B0EB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4FE4E7-D194-44F9-AE51-2F5079B0EB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4FE4E7-D194-44F9-AE51-2F5079B0EB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4FE4E7-D194-44F9-AE51-2F5079B0EB33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3540F871-F617-43AD-873B-441A3916E94A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3540F871-F617-43AD-873B-441A3916E94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3540F871-F617-43AD-873B-441A3916E94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3540F871-F617-43AD-873B-441A3916E94A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
